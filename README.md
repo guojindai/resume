@@ -1,13 +1,13 @@
-### 郭晋岱
+## 郭晋岱
 
-#### 基本信息
+### 基本信息
 电话：*156 6947 9939*  
 邮箱：*guojindai@gmail.com*  
 性别：*男*  
 *** 
 
 ### 技能栈
-1. 前端：JavaScript, HTML, CSS, Backbone, Bootstrap, Less, RequreJS, Grunt, <span style="color: #999;">WebGL</span>, <span style="color: #999;">ReactJS</span>, <span style="color: #999;">Dojo</span>  
+1. 前端：JavaScript, HTML, CSS, Backbone, Bootstrap, Less, RequreJS, Grunt, *WebGL*, *ReactJS*, *Dojo*  
 2. 后端：Ω
 3. 数据库：
 4. 操作系统：
