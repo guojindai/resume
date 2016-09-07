@@ -8,7 +8,7 @@
 
 ### 技能栈
 1. 前端：JavaScript, HTML, CSS, Backbone, Bootstrap, Less, RequreJS, Grunt, *WebGL*, *ReactJS*, *Dojo*  
-2. 后端：Ω
+2. 后端：Java, NodeJS, *Shell*, *Python*, *Go*, *Perl*
 3. 数据库：
 4. 操作系统：
 5. 其他：
