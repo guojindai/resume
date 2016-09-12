@@ -7,11 +7,12 @@
 *** 
 
 ### 技能栈
-1. 前端：JavaScript, HTML, CSS, Backbone, Bootstrap, Less, RequreJS, Grunt, *WebGL*, *ReactJS*, *Dojo*  
-2. 后端：Java, NodeJS, *Shell*, *Python*, *Go*, *Perl*
-3. 数据库：
-4. 操作系统：
-5. 其他：
+1. 前端：JavaScript, HTML, CSS, Backbone, Bootstrap, Less, RequreJS, Grunt, *Mocha*, *WebGL*, *ReactJS*, *Dojo*  
+2. 后端：NodeJS, Java, *Shell*, *Python*, *Go*, *Perl*
+3. 数据库：MySQL, MongoDB, *DB2*
+4. 操作系统：MacOS, CentOS, *Fedora*
+5. 其他：Nginx, Tomcat, Redis, RabbitMQ, *Cognos*, *WebSphere&Portal Server*, *RTC*
+\* *斜体*部分表示学习但未在实际开发中使用过，或之前使用过但近期未使用过
 
 ### 工作项目经历
 
@@ -21,42 +22,4 @@
 
 
 
-1. 个人信息
 
-2. 专业技能
-
-3. 工作经历
-  * 经历一
-  * 经历二
-  * 经历三 
-  * 经历四
-  > 这是引用
->这也是引用
-
-[基于 Rational Team Concert 和 Gradle 对项目进行持续构建与部署](http://www.ibm.com/developerworks/cn/rational/1309_rtcgradle_guojd/index.html)
-
-**粗体**
-*斜体* 
-
-
-| 标题一 | 标题二 |
-| - | - |
-| 单元格11 | 单元格12 |
-| 单元格21 | 单元格22 | 
-
-| Tables        | Are           | Cool  |
-| ------------- |:-------------:| -----:|
-| col 3 is      | right-aligned | $1600 |
-| col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
-
-
-***
-
-`
-var this = 'Hello, world!';
-
-function something () {
-  return 'hi ethan, i have nothing to say with you.'
-}
-`
