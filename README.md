@@ -12,7 +12,7 @@
 2. 后端：Java, NodeJS, *Shell*, *Python*, *Go*
 3. 数据库：MySQL, MongoDB, *DB2*
 4. 操作系统：MacOS, CentOS, *Fedora*
-5. 其他：Nginx, Tomcat, Redis, RabbitMQ, *Cognos*, *WebSphere&Portal Server*, *RTC*  
+5. 其他：Nginx, Tomcat, Redis, RabbitMQ, SVN, 设计模式, *Git*, *Cognos*, *WebSphere&Portal Server*, *RTC*  
 \* ***斜体*** 部分表示学习但未在实际开发中使用过，或之前使用过但近期未使用
 
 ******
