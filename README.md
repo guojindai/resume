@@ -30,7 +30,7 @@
     - 在SDCM（数据中心管理）软件中实现UserName Token安全协议
     - 重新设计了SDCM的持续集成方案，RTC作为CI服务器，maven作为构建工具，集成单元测试、静态代码分析、FindBugs等插件，自动部署到WAS服务器
     - 开发一个轻量级的报表服务Report Platform，主要功能是可以在线通过配置数据源、查询定义、报表配置三个步骤生成应用数据报表（Cognos太重）
-    - 使用Report Platform给Rind Cloud（提供x86和Power的IAAS）开发了使用率和容量相关的报表服务
+    - 使用Report Platform给Ring Cloud（提供x86和Power的IaaS）开发了使用率和容量相关的报表服务
     - Physical Access Control，一个集团内数据中心访问权限控制流程管理软件
 - 201408 - 201504 道富银行        高级软件工程师  
   - 工作简介  
