@@ -13,9 +13,15 @@
 3. 数据库：MySQL, MongoDB, *DB2*
 4. 操作系统：MacOS, CentOS, *Fedora*
 5. 其他：Nginx, Tomcat, Redis, RabbitMQ, *Cognos*, *WebSphere&Portal Server*, *RTC*  
+6. 英文文档和书籍阅读无障碍
 \* ***斜体*** 部分表示学习但未在实际开发中使用过，或之前使用过但近期未使用过
 
 ******
+
+### 自我评价
+技能偏向全栈，对技术充满热情，热爱coding。认为学习能力、主动性、责任心和专注是最重要的四个素质。
+
+*****
 
 ### 工作项目经历
 - 201104 - 201206 IBM中国开发中心 实习
