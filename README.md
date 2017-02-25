@@ -8,12 +8,11 @@
 *** 
 
 ### 技能栈
-1. 前端：JavaScript, HTML, CSS, Backbone, Bootstrap, Less, RequireJS, Grunt, Bower, *Mocha*, *WebGL*, *ReactJS*, *Dojo*  
-2. 后端：Java, NodeJS, *Shell*, *Python*, *Go*
-3. 数据库：MySQL, MongoDB, *DB2*
-4. 操作系统：MacOS, CentOS, *Fedora*
-5. 其他：Nginx, Tomcat, Redis, RabbitMQ, SVN, 设计模式, *Git*, *Cognos*, *WebSphere&Portal Server*, *RTC*  
-\* ***斜体*** 部分表示学习但未在实际开发中使用过，或之前使用过但近期未使用
+1. 前端：JavaScript, HTML, CSS, Backbone, Bootstrap, Less, RequireJS, Grunt, Webpack, ReactJS, Redux, Mocha, WebGL, Dojo
+2. 后端：Java, NodeJS, Shell, Python
+3. 数据库：MySQL, MongoDB, Redis, DB2
+4. 操作系统：macOS, CentOS, Fedora
+5. 其他：Nginx, Tomcat, RabbitMQ, SVN, Git, 设计模式, Cognos, WebSphere&Portal Server, RTC
 
 ******
 
