@@ -8,10 +8,10 @@
 *** 
 
 ### 个人特点
-1.技术偏向全栈，最近一年多时间主要是前端，热爱Coding
-2.一年多的技术团队管理和项目管理经验
-3.快速学习、自我激励、保持关注，有责任心
-4.对于产品团队、运营团队的工作有所了解
+1.技术偏向全栈，最近一年多时间主要是前端，热爱Coding  
+2.一年多的技术团队管理和项目管理经验  
+3.快速学习、自我激励、保持关注，有责任心  
+4.对于产品团队、运营团队的工作有所了解  
 
 ### 技能栈
 1. 前端：JavaScript, HTML, CSS, Backbone, Bootstrap, Less, RequireJS, Grunt, Webpack, ReactJS, Redux, Mocha, WebGL, Dojo
