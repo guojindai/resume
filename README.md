@@ -7,7 +7,7 @@
 
 *** 
 
-### 个人特点
+### 自我评价
 1. 技术偏向全栈，最近一年多时间主要是前端，热爱Coding  
 2. 一年多的技术团队管理和项目管理经验  
 3. 快速学习、自我激励、保持关注，有责任心  
@@ -19,11 +19,6 @@
 3. 数据库：MySQL, MongoDB, Redis, DB2
 4. 操作系统：macOS, CentOS, Fedora
 5. 其他：Nginx, Tomcat, RabbitMQ, SVN, Git, 设计模式, Cognos, WebSphere&Portal Server, RTC
-
-***
-
-### 自我评价
-技能偏向全栈，对技术充满热情，热爱coding。认为学习能力、主动性、责任心和专注是最重要的四个素质。
 
 ***
 
