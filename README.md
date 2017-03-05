@@ -7,6 +7,12 @@
 
 *** 
 
+### 个人特点
+1.技术偏向全栈，最近一年多时间主要是前端，热爱Coding
+2.一年多的技术团队管理和项目管理经验
+3.快速学习、自我激励、保持关注，有责任心
+4.对于产品团队、运营团队的工作有所了解
+
 ### 技能栈
 1. 前端：JavaScript, HTML, CSS, Backbone, Bootstrap, Less, RequireJS, Grunt, Webpack, ReactJS, Redux, Mocha, WebGL, Dojo
 2. 后端：Java, NodeJS, Shell, Python
@@ -14,12 +20,12 @@
 4. 操作系统：macOS, CentOS, Fedora
 5. 其他：Nginx, Tomcat, RabbitMQ, SVN, Git, 设计模式, Cognos, WebSphere&Portal Server, RTC
 
-******
+***
 
 ### 自我评价
 技能偏向全栈，对技术充满热情，热爱coding。认为学习能力、主动性、责任心和专注是最重要的四个素质。
 
-*****
+***
 
 ### 工作项目经历
 - 201104 - 201206 IBM中国开发中心 实习
