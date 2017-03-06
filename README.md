@@ -5,10 +5,10 @@
 邮箱：*guojindai@gmail.com*  
 性别：*男*  
 
-*** 
+***
 
 ### 自我评价
-1. 技术偏向全栈，最近一年多时间主要是前端，热爱Coding  
+1. 技术偏向全栈，近两年时间主要是前端，热爱Coding  
 2. 一年多的技术团队管理和项目管理经验  
 3. 快速学习、自我激励、保持关注，有责任心  
 4. 对于产品团队、运营团队的工作有所了解  
@@ -61,6 +61,3 @@
 [基于 Rational Team Concert 和 Gradle 对项目进行持续构建与部署](http://www.ibm.com/developerworks/cn/rational/1309_rtcgradle_guojd/index.html)  
 
 ***
-
-
-
